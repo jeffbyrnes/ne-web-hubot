@@ -7,7 +7,6 @@
   "dependencies": {
     "hubot": "^3.0.0",
     "hubot-darksky": "^1.0.2",
-    "hubot-devops-reactions": "^1.0.2",
     "hubot-diagnostics": "0.0.2",
     "hubot-dogeme": "^1.0.0",
     "hubot-fliptable": "^2.0.0",
