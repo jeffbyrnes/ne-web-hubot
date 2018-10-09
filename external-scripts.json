@@ -7,7 +7,6 @@
   "hubot-google-translate",
   "hubot-help",
   "hubot-heroku-keepalive",
-  "hubot-http-status",
   "hubot-maps",
   "hubot-pugme",
   "hubot-redis-brain",
